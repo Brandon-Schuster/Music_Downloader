@@ -10,4 +10,4 @@ This program aims to make downloading music from websites a breeze. Mainly to ad
  2. **[ffmpeg](https://ffmpeg.org/download.html)**
  3. **[Python](https://www.python.org/downloads/)**
 
-Note: I will implement an installer with all of these in the future.
+Note: I will implement an installer with all of these in the future, or I will just include them with the program.

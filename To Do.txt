@@ -1,0 +1,26 @@
+Add the following:
+
+GET IMAGE COVER WORKING!!!
+
+adjust position of image cover
+
+Double check that metadata editor works
+
+bolding info. Maybe by making entirely different items between placeholders and actual items
+
+when click on metadata section, highlight all as we need to assume we are going to be deleting all of Immediately
+
+self insert publication date as actual date
+
+Immediately Pull title and length
+
+Create a checkbox to actually separate Title from Album since most of these are going to be singles
+
+UI Changes:
+Song, Cover, and cover applying start status/check mark above the terminal output
+
+Open file location button
+
+For year, maybe a up/down button to edit year since we aren't going back too far
+
+work with Soundcloud

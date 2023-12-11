@@ -11,7 +11,7 @@ This program aims to make downloading music from websites a breeze. Mainly to ad
  2. **[ffmpeg](https://ffmpeg.org/download.html)**
  3. **[Python](https://www.python.org/downloads/)**
 
-## Steps
+## Installation
 
  1. Install [Python](https://www.python.org/downloads/)
  2. Install yt-dlp 

@@ -1,3 +1,4 @@
+
 # Music Downloader
 
 This program aims to make downloading music from websites a breeze. Mainly to add to your Spotify library for easy accessibility, but feel free to do whatever you want!
@@ -27,5 +28,7 @@ This program aims to make downloading music from websites a breeze. Mainly to ad
    - g. In the `Edit Environment variable` page, click new
    - h. Add the path to `ffmpeg\bin`. **Make sure it is to the bin folder!**
    - i. Test functionality with this command in cmd prmpt: `ffmpeg -version`
+4. Install required Python libraries
+	- a. Install Pillow and eyed3: `pip install Pillow and eyed3`
 
 Note: I will implement an installer with all of these in the future, or I will just include them with the program.

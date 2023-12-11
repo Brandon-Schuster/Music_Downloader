@@ -21,7 +21,7 @@ This program aims to make downloading music from websites a breeze. Mainly to ad
    - a. Download [ffmpeg](https://ffmpeg.org/download.html) 
    - b. Extract the files
    - c. Move the extracted folder to a secure folder like `C:\Program Files\`
-   - d. In the windows search bar, type in `env`. You want to open `Edit the System Environment Variables` page.
+   - d. In the windows search bar, search for the `Edit the System Environment Variables` page.
    - e. Click on `Environment Variables`
    - f. Under `System variables`, click on the `Path` variable and then click `edit`
    - g. In the `Edit Environment variable` page, click new
